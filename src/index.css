@@ -1,3 +1,5 @@
+@import "custom_vars.css";
+
 body.vscode-light,
 body.vscode-dark,
 body.vscode-high-contrast {
